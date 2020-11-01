@@ -1,8 +1,8 @@
 let myFruits =()=>{
     return new Promise((resolve,reject)=>{
         let Fruits = [{name:'Mango, Apple, Peaches'}]
-        if (fruits.length>0){
-            resolve(fruits)}
+        if (Fruits.length>0){
+            resolve(Fruits)}
             else{
                 reject ("It's an empty Array")
             }
